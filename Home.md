@@ -9,3 +9,5 @@ thereview é uma plataforma online que busca entregar aso consumidores opiniões
 * Hércules Bruno Ferreira Norte - Turma 2A - 494692
 * Diogo Di Torres Alexandre - Turma 1A - 539777
 * Eduardo Barroso Costa - Turma 2A - 494580
+* Jaíres Maciel de Macêdo - Turma 2A - 499160
+* Antonio Wictor Pereira de Sousa - 1A - 539941
