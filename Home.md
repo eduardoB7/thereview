@@ -6,6 +6,6 @@ thereview é uma plataforma online que busca entregar aso consumidores opiniões
 > * [Visão do negócio](https://github.com/Hercules-F/thereview/wiki/Vis%C3%A3o-do-Neg%C3%B3cio)
 
 ## Equipe
-* Hércules Bruno Ferreira Norte - Turma 2a - 494692
-* Diogo Di Torres Alexandre - Turma 1a - 539777
-* Eduardo Barroso Costa - 1a - 494580
+* Hércules Bruno Ferreira Norte - Turma 2A - 494692
+* Diogo Di Torres Alexandre - Turma 1A - 539777
+* Eduardo Barroso Costa - Turma 2A - 494580
