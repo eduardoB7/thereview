@@ -4,6 +4,7 @@ thereview é uma plataforma online que busca entregar aos consumidores opiniões
 # Tabela de Conteúdo
 * 1ª Iteração
 > * [Visão do negócio do projeto](https://github.com/Hercules-F/thereview/wiki/Vis%C3%A3o-do-Neg%C3%B3cio-do-projeto)
+> * [Glossário](https://github.com/Hercules-F/thereview/wiki/Gloss%C3%A1rio)
 
 ## Equipe
 * Hércules Bruno Ferreira Norte - Turma 2A - 494692
