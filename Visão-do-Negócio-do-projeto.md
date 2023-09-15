@@ -1,1 +1,1 @@
-O nosso negócio Busca atuar com o review/análise de produtos tecnológicos, já que a tecnologia avança a cada dia que passa, muitas pessoas não conseguem acompanhar tal avanço. Tendo isso em vista vamos oferecer uma plataforma que vai dar ao usuário detalhadas informações do produto. 
+O nosso negócio Busca atuar com o review/análise de produtos tecnológicos, já que a tecnologia avança a cada dia que passa, muitas pessoas não conseguem acompanhar tal avanço. Tendo isso em vista, vamos oferecer uma plataforma que vai dar ao usuário detalhadas informações do produto. 
