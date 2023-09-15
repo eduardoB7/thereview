@@ -8,6 +8,8 @@ thereview é uma plataforma online que busca entregar aos consumidores opiniões
 > * [Cronograma](https://github.com/Hercules-F/thereview/wiki/Cronograma)
 > * [Envolvidos](https://github.com/Hercules-F/thereview/wiki/Envolvidos)
 > * [Lista de risco](https://github.com/Hercules-F/thereview/wiki/Lista-de-risco)
+> * [Casos de uso](https://github.com/Hercules-F/thereview/wiki/casos-de-uso)
+
 
 ## Equipe
 * Hércules Bruno Ferreira Norte - Turma 2A - 494692
