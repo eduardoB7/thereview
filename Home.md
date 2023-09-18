@@ -3,7 +3,7 @@ Welcome to the thereview wiki!
 thereview é uma plataforma online que busca entregar aos consumidores opiniões e experiências sobre produtos voltados a área da tecnologia. Acessando thereview o usuário irá se deparar com uma enorme variedade de produtos com análises e opiniões que vão ajudar o cliente de alguma forma, seja ela uma dúvida, uma informação que não é fácil de encontrar ou até mesmo curiosidade de saber sobre os produtos.
 # Tabela de Conteúdo
 * 1ª Iteração
-> * [Visão projeto](https://github.com/Hercules-F/thereview/wiki/Vis%C3%A3o-do-Neg%C3%B3cio-do-projeto)
+> * [Visão do projeto](https://github.com/Hercules-F/thereview/wiki/Vis%C3%A3o-do-projeto)
 > * [Glossário](https://github.com/Hercules-F/thereview/wiki/Gloss%C3%A1rio)
 > * [Cronograma](https://github.com/Hercules-F/thereview/wiki/Cronograma)
 > * [Envolvidos](https://github.com/Hercules-F/thereview/wiki/Envolvidos)
