@@ -3,7 +3,7 @@
 Estamos empenhados em descomplicar a experiência de compra dos consumidores, tornando-a mais instrutiva e satisfátoria. Nossa missão é criar um ambiente onde os usuários possam prontamente acessar análises detalhadas e opiniões imparciais sobre uma ampla gama de produtos tecnológicos, abrangendo desde smartphones e laptops  até dispositivos inovadores e acessórios.
 
 
-**Temos como valores:**
+**Nossos valores:**
 
 
 **Excelência e Credibilidade:** Comprometemo-nos a oferecer análises de alta qualidade e imparciais, garantindo que os consumidores possam confiar nas informações disponíveis em nossa plataforma.
