@@ -1,1 +1,2 @@
-Este é o glossário
+## Termos
+
