@@ -1,2 +1,2 @@
-# ;casos de uso principais
+# Casos de uso principais
 > *
