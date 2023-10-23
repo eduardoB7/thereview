@@ -44,7 +44,7 @@
 * **Ator Principal:**
     - Usuário registrado que deseja publicar um review em sua conta.
 * **Interessados:**
-    - Usuário em busca de informações sobre produtos tecnológicos.
+    - Usuário em busca de compartilhar informações sobre produtos tecnológicos.
     - Administradores da plataforma.
 * **Garantia de Sucesso:**
     - O usuário conclui com êxito a publicação de um review em seu perfil.
@@ -56,4 +56,21 @@
 * **Fluxo Alternativo:**
     - O usuário pode inserir dados que não são aceitos pelo sistema. Como por exemplo palavras de baixo calão, termos ofensivos, arquivos que contenham conteúdo explicito ou algo relacionado a tais casos. O sistema irá exibir uma mensagem de erro indicando o(os) campo(os )que o usuário precisa alterar para que a publicação possa ser processada.
 
-### 4. ****
+### 4. **Excluir Perfil:**
+* **Pré-Requisitos:**
+    - O usuário deve estar registrado e logado na plataforma "thereview".
+* **Ator Principal:**
+    - Usuário que deseja realizar a exclusão de seu perfil da plataforma "thereview".
+* **Interessados:**
+    - Usuário que, por algum motivo, opta por remover seu perfil da plataforma apagando toda e qualquer informação relacionada ao mesmo.
+    - Administradores da plataforma que buscam entender o motivo de tal evasão.
+* **Garantia de Sucesso:**
+    - O usuário deve concordar que todas as informações relacionadas a sua conta serão removidas permanentemente da plataforma, fazendo assim com que logre êxito ao excluir seu perfil.
+* **Fluxo Principal:**
+    - O usuário faz login na plataforma "thereview" com suas credenciais.
+    - Ele navega até a seção de "Perfil" em sua conta.
+    - Ele localiza a opção de excluir perfil e seleciona a mesma.
+    - Ao selecionar a opção de excluir perfil, o usuário ira ver uma tela com as condições para excluir o perfil. Tendo como condição principal estar ciente de que seus dados serão excluídos permanentemente.
+    - Ao afirmar que esta ciente de tal condição a solicitação de exclusão poderá ser processada pelo sistema.
+* **Fluxo Alternativo:**
+    - O usuário pode desistir de tal solicitação ainda na aba para finalizar a exclusão. Neste caso haverá a opção de cancelar exclusão que o direcionará para a aba perfil. 
