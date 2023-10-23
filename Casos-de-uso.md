@@ -38,7 +38,7 @@
 * **Fluxo Alternativo:**
     - Se o usuário tentar fazer alterações que não são permitidas (por exemplo, tentar alterar um endereço de e-mail já existente), o sistema exibirá uma mensagem de erro e instruirá o usuário a fazer as correções necessárias.
 
-### 3. **Publicar um review:**
+### 3. **Publicar um Review:**
 * **Pré-Requisitos:**
     - O usuário deve estar registrado e logado na plataforma "thereview".
 * **Ator Principal:**
@@ -52,4 +52,8 @@
     - O usuário realiza login na plataforma "thereview" com suas credenciais.
     - Na página inicial o usuário tem de localizar o botão que se destina a criar uma nova publicação.
     - Após selecionar o botão, o usuário será direcionado para uma aba onde ele deve preencher as informações e arquivos necessários para realizar a publicação.
-    - Após o devido preenchimento dos campos, o usuário deve confirmar a ação selecionando o botão ""
+    - Após o devido preenchimento dos campos, o usuário deve confirmar a ação fazendo com que o review seja publicado.
+* **Fluxo Alternativo:**
+    - O usuário pode inserir dados que não são aceitos pelo sistema. Como por exemplo palavras de baixo calão, termos ofensivos, arquivos que contenham conteúdo explicito ou algo relacionado a tais casos. O sistema irá exibir uma mensagem de erro indicando o(os) campo(os )que o usuário precisa alterar para que a publicação possa ser processada.
+
+### 4. ****
