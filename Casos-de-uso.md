@@ -37,3 +37,19 @@
     - Após fazer as alterações desejadas, o usuário confirma as atualizações.
 * **Fluxo Alternativo:**
     - Se o usuário tentar fazer alterações que não são permitidas (por exemplo, tentar alterar um endereço de e-mail já existente), o sistema exibirá uma mensagem de erro e instruirá o usuário a fazer as correções necessárias.
+
+### 3. **Publicar um review:**
+* **Pré-Requisitos:**
+    - O usuário deve estar registrado e logado na plataforma "thereview".
+* **Ator Principal:**
+    - Usuário registrado que deseja publicar um review em sua conta.
+* **Interessados:**
+    - Usuário em busca de informações sobre produtos tecnológicos.
+    - Administradores da plataforma.
+* **Garantia de Sucesso:**
+    - O usuário conclui com êxito a publicação de um review em seu perfil.
+* **Fluxo Principal:**
+    - O usuário realiza login na plataforma "thereview" com suas credenciais.
+    - Na página inicial o usuário tem de localizar o botão que se destina a criar uma nova publicação.
+    - Após selecionar o botão, o usuário será direcionado para uma aba onde ele deve preencher as informações e arquivos necessários para realizar a publicação.
+    - Após o devido preenchimento dos campos, o usuário deve confirmar a ação selecionando o botão ""
