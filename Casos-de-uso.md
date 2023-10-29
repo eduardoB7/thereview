@@ -74,3 +74,5 @@
     - Ao afirmar que esta ciente de tal condição a solicitação de exclusão poderá ser processada pelo sistema.
 * **Fluxo Alternativo:**
     - O usuário pode desistir de tal solicitação ainda na aba para finalizar a exclusão. Neste caso haverá a opção de cancelar exclusão que o direcionará para a aba perfil. 
+
+# Casos de uso resumidos
