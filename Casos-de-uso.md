@@ -76,3 +76,25 @@
     - O usuário pode desistir de tal solicitação ainda na aba para finalizar a exclusão. Neste caso haverá a opção de cancelar exclusão que o direcionará para a aba perfil. 
 
 # Casos de uso resumidos
+
+### 1. **Cadastro na Plataforma:**
+
+* **Descrição:** Novos usuários podem se cadastrar na plataforma "thereview" para acessar análises de produtos tecnológicos.
+* **Garantia de Sucesso:** 
+O usuário conclui o processo de cadastro e ativa sua conta por meio de um e-mail de confirmação.
+
+### 2. **Editar Perfil:**
+
+* **Descrição:** Usuários cadastrados podem atualizar suas informações pessoais em seus perfis.
+* **Garantia de Sucesso:** O usuário conclui com sucesso a edição de seu perfil, fazendo alterações como nome, foto de perfil e opções de notificação.
+
+### 3. **Publicar uma revisão:**
+
+* **Descrição:** Usuários registrados podem compartilhar análises de produtos tecnológicos na plataforma.
+* **Garantia de Sucesso:** O usuário publica uma avaliação bem-sucedida, fornece informações e arquivos relevantes.
+
+### 4. **Excluir perfil:**
+
+* **Descrição:** Os usuários podem optar por excluir permanentemente seus perfis na plataforma.
+* **Garantia de Sucesso:** O usuário confirma a exclusão de seu perfil, ciente de que todas as informações associadas a sua conta serão removidas permanentemente.
+
